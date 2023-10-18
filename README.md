@@ -20,9 +20,9 @@ The project will be accessible at http://localhost:3000.
 - Navigate through the product dashboard to view product data.
 - The Doughnut chart displays important product statistics.
 
-## Screenshots
+# Screenshots
 
-[dashboard](https://github.com/syedosama1/product-dashboard/assets/111410324/83e24331-70d0-4dfb-9ac7-af6f069a2541)
+![dashboard](https://github.com/syedosama1/product-dashboard/assets/111410324/83e24331-70d0-4dfb-9ac7-af6f069a2541)
 
 ## License
 
