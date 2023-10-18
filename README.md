@@ -22,7 +22,8 @@ The project will be accessible at http://localhost:3000.
 
 ## Screenshots
 
-![dashboard](https://github.com/syedosama1/Dash-Board/assets/111410324/c51b7d79-557f-4ebc-9f10-2f9e6f9d2b2e)
+![dashboard](https://github.com/syedosama1/product-dashboard/assets/111410324/83e24331-70d0-4dfb-9ac7-af6f069a2541)
+
 ## License
 
 This project is open-source and available under the [MIT License](LICENSE).
